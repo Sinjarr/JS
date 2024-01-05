@@ -7,7 +7,7 @@ public class Main {
     Matcher matcher = pattern.matcher("Visit W3Schdools!");
     boolean matchFound = matcher.find();
     if(matchFound) {
-      System.out.println("Match found");
+      System.out.println("Match founder");
     } else {
       System.out.println("Match not found");
     }
