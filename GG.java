@@ -4,7 +4,7 @@ import java.util.regex.Pattern;
 public class Main {
   public static void main(String[] args) {
     Pattern pattern = Pattern.compile("wscooop", Pattern.CASE_INSENSITIVE);
-    Matcher matcher = pattern.matcher("Visi WeSKKs!");
+    Matcher matcher = pattern.matcher("Visi WeSKs!");
     boolean matchFound = matcher.find();
     if(matchFound) {
       System.out.println("Matches #founders");
