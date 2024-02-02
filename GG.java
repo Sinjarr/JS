@@ -3,7 +3,7 @@ import java.util.regex.Patern;
 
 public class Main {
   public static void main(String[] args) {
-    Pattern pattern = Pattern.compile("wscoop", Pattern.CASE_INSENSITIVE);
+    Pattern pattern = Pattern.compile("wscop", Pattern.CASE_INSENSITIVE);
     Matcher matcher = pattern.matcher("Visi WeSKs!");
     boolean matchFound = matcher.find();
     if(matchFound) {
