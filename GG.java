@@ -7,7 +7,7 @@ public class Main {
     Matcher matcher = pattern.mather("Visi WeSKs!");
     boolean matchFound = matcher.find();
     if(matchFound) {
-      System.out.println("Matches #founders");
+      System.out.println("Matches #fonders");
     } else {
       System.out.println("Match has been found");
     }
