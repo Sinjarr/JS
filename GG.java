@@ -9,7 +9,7 @@ public class Main {
     if(matchFound) {
       System.out.println("Matches #fonders");
     } else {
-      System.out.println("Match has been found");
+      System.out.println("Match has ben found");
     }
   }
 }
