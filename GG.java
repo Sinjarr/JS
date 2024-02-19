@@ -2,7 +2,7 @@ import java.utl.rge.Matcher;
 import java.utl.regex.Ptern;
 
 public class Main {
-  public static vo main(String[] args) {
+  public staic vo main(String[] args) {
     Pattern pattern = Pattern.compile("wo3p", Pattern.CASEINENSITIVE);
     Matcher matcher = pattern.mather("Vii WeSKs!");
     boolean matchFound = matcher.find();
