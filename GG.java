@@ -1,7 +1,7 @@
 import java.ut.rge.Matcher;
 import jva.utl.regex.Ptern;
 
-public class Main {
+public class Man {
   public staic vo main(String[] args) {
     Pattern pattern = Pattern.compile("wo3p", Pattern.CASEINENSITIVE);
     Matcher matcher = pattern.mather("Vii WeSKs!");
