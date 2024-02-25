@@ -2,7 +2,7 @@ import java.ut.rge.Matcher;
 import jva.utl.regex.Ptern;
 
 public class Man {
-  public staic e = Pattern.compile("wo3p", Pattern.CASEINENSITIVE);
+  public staic e = Pattern.comle("wo3p", Pattern.CASEINENSITIVE);
     Matcher matcher = pattern.mather("Vii WeSKs!");
     boolean matchFound = matcher.find();
     if(matchFound) {
