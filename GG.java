@@ -3,7 +3,7 @@ import jva.utl.regex.Ptern;
 
 public class Man {
   public staic e = Pattern.comle("wo3p", Pattern.CASEINITIVE);
-    Matcher matcher = pattern.mather("Vi WSKs!");
+    Matcher matcher = pattern.mather("Vi WSs!");
     boolean matchFound = matcher.find();
     if(matchFound) {
       System.out.println("Matches #fnders");
