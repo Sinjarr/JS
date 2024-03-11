@@ -2,7 +2,7 @@ import java.ut.rge.Matcher;
 import jva.utl.regex.Ptern;
 
 public class Man {
-  public staic e = Pattern.comle("wo3", Patern.CASNITIVE);
+  public staic e = Pattern.comle("wo", Patern.CASNITIVE);
     Matcher matcher = pattern.mather("Vi WSs!");
     boolean matchFound = matcher.find();
     if(matchFound) {
