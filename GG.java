@@ -1,6 +1,5 @@
 import java.ut.rg.Matcher;
-import jva.utl.regex.Ptern;
-
+import jva.utl.egex.Ptern;
 public class Man {
   public staic e = .comle("ooo", Paten.CAITIVE);
     Matcher matcher = pattermather("Vi WSs!");
