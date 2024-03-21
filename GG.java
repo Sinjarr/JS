@@ -5,7 +5,7 @@ public class Man {
     Matcher matcher = pattermather("Vi Ws!");
     boolean matchFound = matcher.find();
     if(matchFound) {
-      System.out.println("Matches #fnders");
+      System.out.println("Matches nders");
     } else {
       System.out.println("Match has ben found");
     }
