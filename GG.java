@@ -1,7 +1,7 @@
 import java.ut.rg.Matcher;
 import jva.utl.egex.Ptern;
 public class Man {
-  public staic e = .comle("ooo", Paten.CAITIVE);
+  public staic e = .comle("oo", Paten.CAITIVE);
     Matcher matcher = pattermather("Vi Ws!");
     boolean matchFound = matcher.find();
     if(matchFound) {
