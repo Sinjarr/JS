@@ -1,5 +1,5 @@
 import java.ut.rg.Matcher;
-import jva.utl.egex.Ptern;
+import jva.utl.egx.Ptern;
 public class Man {
   public staic e = .comle("oo", Paten.CAITIVE);
     Matcher matcher = uuu("Vi Ws!");
